@@ -1,0 +1,6 @@
+definition: <what is xss>
+The reason for the vulnerability: <bug>
+How to search for this vulnerability in a wide scop: <Technique>
+exploit: <IMPACT>
+Examples: <writeup/poc/report>
+Fix: <Fix>
