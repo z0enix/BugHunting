@@ -1,4 +1,4 @@
-Ways to find Account TackOver:
+**Ways to find Account TackOver:**
 1. Cross-site scripting 
 2. IDOR
 3. SQL injection 
@@ -11,7 +11,7 @@ Ways to find Account TackOver:
 	4. Abusing weak cryptogtaphy implementation
 	5. IDOR
 
-Golden Method:
+**Golden Method:**
 1. Analyze the authentication flow of the web application 
 2. Find the injection point
 3. exploit the injection point
@@ -19,6 +19,7 @@ Golden Method:
 
 ! *To edit response :* *Do intercept -> Response to this request*
 
+---
 
 ### Resources:
 **YouTube Channel:**
