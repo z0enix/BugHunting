@@ -22,19 +22,19 @@ Golden Method:
 
 ### Resources:
 **YouTube Channel:**
-Farah Hawa: https://www.youtube.com/c/FarahHawa
-STOK: https://www.youtube.com/c/STOKfredrik
-Nahamsec: https://www.youtube.com/c/Nahamsec
-Jason Hadix: https://www.youtube.com/c/jhaddix
-BePractical: https://www.youtube.com/channel/UCrbJ0ju-gv7ZIxA5fwE_0IQ
-NullByte: https://www.youtube.com/c/NullByteWHT
-Hackersploit: https://www.youtube.com/c/HackerSploit
-Hacker Charles: https://www.youtube.com/c/HackerCharles
+- Farah Hawa: https://www.youtube.com/c/FarahHawa
+- STOK: https://www.youtube.com/c/STOKfredrik
+- Nahamsec: https://www.youtube.com/c/Nahamsec
+- Jason Hadix: https://www.youtube.com/c/jhaddix
+- BePractical: https://www.youtube.com/channel/UCrbJ0ju-gv7ZIxA5fwE_0IQ
+- NullByte: https://www.youtube.com/c/NullByteWHT
+- Hackersploit: https://www.youtube.com/c/HackerSploit
+- Hacker Charles: https://www.youtube.com/c/HackerCharles
 
   
 
 **Articles:**
-Medium: https://medium.com/
-Infosec: https://infosecwriteups.com/
-FaiyazHacks: https://faiyazhacks.medium.com
-BePractical: https://bepractical.tech
+- Medium: https://medium.com/
+- Infosec: https://infosecwriteups.com/
+- FaiyazHacks: https://faiyazhacks.medium.com
+- BePractical: https://bepractical.tech
