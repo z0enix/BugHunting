@@ -1,6 +1,6 @@
 **CWE-79 Technique v1.0 (GET Request)**
 
-### Steps to find XSS
+### Steps to find XSS Reflected via GET Request
 1. Subdomains Discovery
 2. Test if websites has `web application firewall` or not (WAF Detection)
 3. Crawling
